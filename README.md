@@ -12,7 +12,7 @@
 
 ## 🔗 Quick Navigation
 - [Overview](#-overview)
-- [Methodology](#-#%EF%B8%8F-methodology)
+- [Methodology](#methodology)
 - [Analysis](#-analysis)
 - [Results](#-key-results)
 - [Insights](#-strategic-insights)
@@ -71,7 +71,7 @@ It combines **trading data + sentiment indicators** to uncover how emotional mar
 
 ---
 
-## ⚙️ Methodology
+## Methodology ⚙️
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6162963c-9a14-40b2-8516-528de2d4b020" width="700"/>
