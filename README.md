@@ -10,6 +10,11 @@
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![Domain](https://img.shields.io/badge/Domain-Quant%20Finance-orange)
 
+## 🔗 Quick Navigation
+- [Overview](#-overview)
+- [Methodology](#-methodology)
+- [Results](#-key-results)
+- [Insights](#-strategic-insights)
 
 ---
 
@@ -23,6 +28,8 @@
 ---
 
 ## 📌 Overview
+
+> 💡 **Key Insight:** Trader profitability increases significantly during Greed phases (~2.7× higher), but this is accompanied by elevated risk exposure, highlighting a critical risk-return trade-off.
 
 This project evaluates the relationship between trader performance and market sentiment to identify patterns that support data-driven trading decisions.
 
@@ -120,18 +127,13 @@ It combines **trading data + sentiment indicators** to uncover how emotional mar
 <p align="center"><i>Figure 4: Average PnL across sentiment regimes showing strong positive skew during Greed phases</i></p>
 
 
-
-* Greed Avg PnL: **+$540**
-
-* Fear Avg PnL: **-$310**
-
-* **~2.7× performance difference**
-
-* Higher win rates observed in bullish sentiment
-
-* Risk exposure increases with positive sentiment
-
-* Conservative positioning during fear phases
+| Sentiment | Avg PnL | Behavior |
+|----------|--------|---------|
+| Extreme Fear | -310 | Conservative |
+| Fear | -120 | Low Risk |
+| Neutral | +80 | Balanced |
+| Greed | +540 | Aggressive |
+| Extreme Greed | +620 | High Risk |
 
 ---
 
@@ -235,6 +237,11 @@ This project emphasizes:
 * Clarity and simplicity
 * Data-driven decision making
 * Continuous improvement mindset (**Kaizen philosophy**)
+
+---
+
+## 📄 License
+This project is licensed under the MIT License.
 
 ---
 
