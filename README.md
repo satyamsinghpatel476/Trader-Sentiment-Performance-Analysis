@@ -12,7 +12,7 @@
 
 ## 🔗 Quick Navigation
 - [Overview](#-overview)
-- [Methodology](#-methodology)
+- #%EF%B8%8F-methodology
 - [Analysis](#-analysis)
 - [Results](#-key-results)
 - [Insights](#-strategic-insights)
