@@ -13,6 +13,7 @@
 ## 🔗 Quick Navigation
 - [Overview](#-overview)
 - [Methodology](#-methodology)
+- [Analysis](#-analysis)
 - [Results](#-key-results)
 - [Insights](#-strategic-insights)
 
@@ -127,13 +128,15 @@ It combines **trading data + sentiment indicators** to uncover how emotional mar
 <p align="center"><i>Figure 4: Average PnL across sentiment regimes showing strong positive skew during Greed phases</i></p>
 
 
-| Sentiment | Avg PnL | Behavior |
-|----------|--------|---------|
-| Extreme Fear | -310 | Conservative |
-| Fear | -120 | Low Risk |
-| Neutral | +80 | Balanced |
-| Greed | +540 | Aggressive |
-| Extreme Greed | +620 | High Risk |
+### 📌 Summary Table
+
+| Sentiment        | Avg PnL | Behavior        |
+|----------------|--------|----------------|
+| Extreme Fear   | -310   | Conservative   |
+| Fear           | -120   | Low Risk       |
+| Neutral        | +80    | Balanced       |
+| Greed          | +540   | Aggressive     |
+| Extreme Greed  | +620   | High Risk      |
 
 ---
 
