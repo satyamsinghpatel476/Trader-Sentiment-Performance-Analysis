@@ -12,10 +12,10 @@
 
 ## 🔗 Quick Navigation
 - [Overview](#-overview)
-- [Methodology](#methodology)
 - [Analysis](#-analysis)
 - [Results](#-key-results)
 - [Insights](#-strategic-insights)
+- [Methodology](#methodology)
 
 ---
 
