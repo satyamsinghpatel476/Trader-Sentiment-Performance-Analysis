@@ -1,6 +1,14 @@
 # 📊 Trader Performance vs Market Sentiment Analysis
 
-<img width="1878" height="1107" alt="image" src="https://github.com/user-attachments/assets/8e2a6488-dfbd-47ee-ac2a-d11fd732ae6d" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8e2a6488-dfbd-47ee-ac2a-d11fd732ae6d" width="700"/>
+</p>
+
+<p align="center"><i>Figure 1: Overview of trader performance under varying market sentiment conditions</i></p>
+
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Domain](https://img.shields.io/badge/Domain-Quant%20Finance-orange)
 
 
 ---
@@ -57,7 +65,12 @@ It combines **trading data + sentiment indicators** to uncover how emotional mar
 
 ## ⚙️ Methodology
 
-<img width="2048" height="1137" alt="image" src="https://github.com/user-attachments/assets/6162963c-9a14-40b2-8516-528de2d4b020" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6162963c-9a14-40b2-8516-528de2d4b020" width="700"/>
+</p>
+
+<p align="center"><i>Figure 2: Data processing and analytical pipeline</i></p>
+
 
 
 ### Data Processing
@@ -80,7 +93,13 @@ It combines **trading data + sentiment indicators** to uncover how emotional mar
 
 ## 📈 Analysis
 
-<img width="349" height="437" alt="image" src="https://github.com/user-attachments/assets/a4348530-7daa-41aa-94d6-32e5f88c41e4" />
+### Sentiment Distribution
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a4348530-7daa-41aa-94d6-32e5f88c41e4" width="500"/>
+</p>
+
+<p align="center"><i>Figure 3: Distribution of trades across sentiment categories</i></p>
 
 
 * Profitability by sentiment
@@ -94,7 +113,12 @@ It combines **trading data + sentiment indicators** to uncover how emotional mar
 
 ## 📊 Key Results
 
-<img width="1536" height="850" alt="image" src="https://github.com/user-attachments/assets/ca7bd287-3030-41d5-be0d-839bf99aee89" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ca7bd287-3030-41d5-be0d-839bf99aee89" width="750"/>
+</p>
+
+<p align="center"><i>Figure 4: Average PnL across sentiment regimes showing strong positive skew during Greed phases</i></p>
+
 
 
 * Greed Avg PnL: **+$540**
@@ -113,7 +137,12 @@ It combines **trading data + sentiment indicators** to uncover how emotional mar
 
 ## 📉 Visual Insights
 
-<img width="671" height="672" alt="image" src="https://github.com/user-attachments/assets/36dbb1fa-2e15-417b-bc67-6df4401146db" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/36dbb1fa-2e15-417b-bc67-6df4401146db" width="500"/>
+</p>
+
+<p align="center"><i>Figure 5: Risk exposure trends across sentiment phases</i></p>
+
 
 
 👉 See full analysis in presentation:
